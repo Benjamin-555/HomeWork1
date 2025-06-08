@@ -1,0 +1,14 @@
+C:\Users\UserGPC\OneDrive\Desktop\C# Projects\CommunityMember\bin\Debug\net9.0\CommunityMember.exe
+C:\Users\UserGPC\OneDrive\Desktop\C# Projects\CommunityMember\bin\Debug\net9.0\CommunityMember.deps.json
+C:\Users\UserGPC\OneDrive\Desktop\C# Projects\CommunityMember\bin\Debug\net9.0\CommunityMember.runtimeconfig.json
+C:\Users\UserGPC\OneDrive\Desktop\C# Projects\CommunityMember\bin\Debug\net9.0\CommunityMember.dll
+C:\Users\UserGPC\OneDrive\Desktop\C# Projects\CommunityMember\bin\Debug\net9.0\CommunityMember.pdb
+C:\Users\UserGPC\OneDrive\Desktop\C# Projects\CommunityMember\obj\Debug\net9.0\CommunityMember.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\UserGPC\OneDrive\Desktop\C# Projects\CommunityMember\obj\Debug\net9.0\CommunityMember.AssemblyInfoInputs.cache
+C:\Users\UserGPC\OneDrive\Desktop\C# Projects\CommunityMember\obj\Debug\net9.0\CommunityMember.AssemblyInfo.cs
+C:\Users\UserGPC\OneDrive\Desktop\C# Projects\CommunityMember\obj\Debug\net9.0\CommunityMember.csproj.CoreCompileInputs.cache
+C:\Users\UserGPC\OneDrive\Desktop\C# Projects\CommunityMember\obj\Debug\net9.0\CommunityMember.dll
+C:\Users\UserGPC\OneDrive\Desktop\C# Projects\CommunityMember\obj\Debug\net9.0\refint\CommunityMember.dll
+C:\Users\UserGPC\OneDrive\Desktop\C# Projects\CommunityMember\obj\Debug\net9.0\CommunityMember.pdb
+C:\Users\UserGPC\OneDrive\Desktop\C# Projects\CommunityMember\obj\Debug\net9.0\CommunityMember.genruntimeconfig.cache
+C:\Users\UserGPC\OneDrive\Desktop\C# Projects\CommunityMember\obj\Debug\net9.0\ref\CommunityMember.dll
