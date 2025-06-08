@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace CommunityMember.Entities
 {
-    public class Administrator: Teacher
+    public class Administrator: Employee
     {
         public string Title { get; set; }
         public int AccessLevel { get; set; }
