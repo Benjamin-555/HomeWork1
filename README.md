@@ -3,6 +3,7 @@
 <h3>Nombre: Geovanny Benjamin Beato Nivar</h3>
 <h3>Mattricula: 2023-1079</h3>
 Crear una app con este mapa de clases:
+
 ![image](https://github.com/user-attachments/assets/12b3da01-b752-40e1-b80e-6c8ff327ea0d)
 
 Utilizando la programacion orientada a objetos.
