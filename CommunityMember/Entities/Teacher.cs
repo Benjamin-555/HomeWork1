@@ -17,7 +17,7 @@ public class Teacher : Employee
     public void ShowInformation()
     {
         base.InformationMember();
-        Console.WriteLine($"Expero en el area de: {ExpertiseArea}");
+        Console.WriteLine($"Experto en el area de: {ExpertiseArea}");
         Console.WriteLine($"Email: {InstitutionalEmail}");
         Console.WriteLine($"Extension: {OfficeExtension}");
     }
